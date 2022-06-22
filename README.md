@@ -1,1 +1,1 @@
-My first print script readme
+Task 0. Where am I?
